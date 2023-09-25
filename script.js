@@ -1,3 +1,4 @@
+alert("this contains audio aswell")
 const n = 40;
 const array = [];
 let audioctx = null;
